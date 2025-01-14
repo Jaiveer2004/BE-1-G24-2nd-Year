@@ -9,6 +9,7 @@ The following functionalities are included:
 2. **Student List**: Registered students' data can be viewed in JSON format.
 3. **Error Handling**: Proper error handling for GET and POST requests.
 
+
 ---
 
 ## Modules Used
